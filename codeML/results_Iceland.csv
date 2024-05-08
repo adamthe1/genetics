@@ -1,0 +1,293 @@
+Supplementary Table 1. Genome-wide significant SNPs. P values are corrected,,,,,
+using genomic controls.,,,,,
+,,Build 35,,,
+SNP,Chra ,position,P value,OR,Test
+rs12821256 C,12,"87,830,803",5.5x10-14,2.32,blond vs. brown hair
+rs4904864 A,14,"91,834,272",5.9x10-11,0.51,blond vs. brown hair
+,,,1.9x10-8,0.63,blue vs. green eyes
+rs4904868 T,14,"91,850,754",2.2x10-13,0.5,blond vs. brown hair
+,,,7.5x10-14,0.56,blue vs. green eyes
+rs2402130 G,14,"91,870,956",3.7x10-9,0.47,blond vs. brown hair
+rs1584407 A,15,"25,830,854",1.1x10-7,0.55,blue vs. brown eyes
+rs2703952 C,15,"25,855,576",3.7x10-12,0.39,blue vs. brown eyes
+rs728405 G,15,"25,873,448",1.1x10-9,0.5,blue vs. brown eyes
+rs4778220 G,15,"25,894,733",1.2x10-7,0.51,blue vs. brown eyes
+rs11855019 G,15,"26,009,415",9.3x10-36,0.17,blue vs. brown eyes
+,,,5.3x10-9,0.32,blond vs. brown hair
+rs6497268 A,15,"26,012,308",4.1x10-56,0.13,blue vs. brown eyes
+,,,7.7x10-10,0.37,blond vs. brown hair
+,,,1.5x10-13,0.37,blue vs. green eyes
+rs7495174 G,15,"26,017,833",3.2x10-36,0.07,blue vs. brown eyes
+rs7183877 A,15,"26,039,328",1.2x10-10,0.16,blond vs. brown hair
+,,,8.0x10-22,0.1,blue vs. green eyes
+,,,2.2x10-72,0.03,blue vs. brown eyes
+rs8028689 C,15,"26,162,483",7.3x10-38,0.02,blue vs. brown eyes
+rs2240204 T,15,"26,167,627",7.3x10-38,0.02,blue vs. brown eyes
+rs8039195 C,15,"26,189,679",1.5x10-12,0.21,blond vs. brown hair
+,,,9.1x10-22,0.15,blue vs. green eyes
+,,,8.8x10-99,0.03,blue vs. brown eyes
+rs16950979 G,15,"26,194,101",7.3x10-38,0.02,blue vs. brown eyes
+rs16950987 A,15,"26,199,823",7.3x10-38,0.02,blue vs. brown eyes
+rs1667394 G,15,"26,203,777",4.4x10-16,0.18,blond vs. brown hair
+,,,5.1x10-25,0.14,blue vs. green eyes
+,,,1.4x10-124,0.03,blue vs. brown eyes
+rs1635168 T,15,"26,208,861",5.9x10-28,0.06,blue vs. brown eyes
+rs17137796 C,15,"26,798,209",2.4x10-10,0.55,blue vs. brown eyes
+rs11076747 G,16,"87,584,526",2.7x10-8,0.55,red vs. not red hair
+rs9921361 G,16,"87,821,940",4.4x10-9,0.17,red vs. not red hair
+rs1466540 C,16,"87,871,978",1.2x10-7,0.52,red vs. not red hair
+rs2353028 G,16,"87,880,179",4.4x10-10,0.39,red vs. not red hair
+rs2306633 A,16,"87,882,779",5.3x10-12,0.33,red vs. not red hair
+rs2353033 T,16,"87,913,062",1.9x10-17,0.4,red vs. not red hair
+,,,4.3x10-17,0.62,freckles present vs. absent
+rs889574 C,16,"87,914,309",4.4x10-8,0.72,freckles present vs. absent
+rs4347628 C,16,"88,098,136",2.1x10-12,2.15,red vs. not red hair
+rs382745 C,16,"88,131,087",4.5x10-13,0.66,freckles present vs. absent
+rs352935 A,16,"88,176,081",2.2x10-10,0.7,freckles present vs. absent
+,,,6.3x10-10,0.51,red vs. not red hair
+rs464349 T,16,"88,183,752",1.2x10-13,0.66,freckles present vs. absent
+rs164741 C,16,"88,219,799",3.6x10-15,0.61,burns vs. tans
+,,,9.0x10-39,0.25,red vs. not red hair
+,,,1.4x10-27,0.52,freckles present vs. absent
+rs460879 T,16,"88,240,390",6.7x10-19,0.61,freckles present vs. absent
+,,,2.0x10-22,0.34,red vs. not red hair
+rs7188458 G,16,"88,253,985",7.6x10-12,0.67,burns vs. tans
+,,,1.6x10-37,0.24,red vs. not red hair
+,,,4.7x10-23,0.57,freckles present vs. absent
+rs459920 C,16,"88,258,328",9.5x10-20,0.36,red vs. not red hair
+,,,6.2x10-16,0.63,freckles present vs. absent
+rs12443954 G,16,"88,268,997",8.0x10-14,0.25,red vs. not red hair
+rs258324 A,16,"88,281,756",1.7x10-9,0.11,red vs. not red hair
+rs258322 T,16,"88,283,404",2.0x10-11,1.77,burns vs. tans
+,,,5.6x10-27,3.84,red vs. not red hair
+,,,1.6x10-18,2.12,freckles present vs. absent
+rs3751695 C,16,"88,292,050",6.0x10-14,0.4,red vs. not red hair
+,,,1.1x10-7,0.66,burns vs. tans
+,,,4.9x10-8,0.66,freckles present vs. absent
+rs7204478 C,16,"88,322,986",5.1x10-8,0.73,burns vs. tans
+,,,1.1x10-14,0.65,freckles present vs. absent
+,,,1.4x10-39,0.23,red vs. not red hair
+rs1800359 T,16,"88,332,762",3.5x10-22,0.31,red vs. not red hair
+,,,1.6x10-13,0.65,freckles present vs. absent
+rs8058895 C,16,"88,342,308",2.4x10-10,1.55,freckles present vs. absent
+,,,1.5x10-19,2.79,red vs. not red hair
+rs7195066 C,16,"88,363,824",4.3x10-26,5,red vs. not red hair
+rs16966142 T,16,"88,378,534",1.1x10-9,0.09,red vs. not red hair
+rs1800286 A,16,"88,397,262",9.2x10-14,0.65,freckles present vs. absent
+,,,2.5x10-23,0.3,red vs. not red hair
+rs11861084 A,16,"88,403,211",2.2x10-24,0.29,red vs. not red hair
+,,,4.1x10-15,0.64,freckles present vs. absent
+rs8060934 C,16,"88,447,526",1.7x10-30,0.27,red vs. not red hair
+,,,5.2x10-8,0.74,freckles present vs. absent
+rs4785755 A,16,"88,565,329",1.4x10-8,0.54,red vs. not red hair
+rs4408545 T,16,"88,571,529",2.2x10-44,0.17,red vs. not red hair
+,,,2.8x10-13,0.65,burns vs. tans
+,,,2.0x10-22,0.57,freckles present vs. absent
+rs4238833 T,16,"88,578,190",3.9x10-55,0.18,red vs. not red hair
+,,,1.9x10-32,0.5,freckles present vs. absent
+,,,3.0x10-19,0.59,burns vs. tans
+rs7201721 G,16,"88,586,247",4.4x10-10,1.98,red vs. not red hair
+rs4785763 C,16,"88,594,437",2.4x10-33,0.49,freckles present vs. absent
+,,,1.1x10-19,0.58,burns vs. tans
+,,,3.2x10-56,0.18,red vs. not red hair
+rs9936896 T,16,"88,596,560",1.0x10-11,0.63,freckles present vs. absent
+,,,1.5x10-12,0.45,red vs. not red hair
+,,,3.4x10-8,0.69,burns vs. tans
+rs11648785 T,16,"88,612,062",2.6x10-16,0.34,red vs. not red hair
+,,,4.1x10-10,0.67,burns vs. tans
+,,,1.4x10-19,0.57,freckles present vs. absent
+rs2241039 T,16,"88,615,938",7.7x10-10,0.69,burns vs. tans
+,,,6.4x10-24,0.28,red vs. not red hair
+,,,7.0x10-21,0.58,freckles present vs. absent
+rs1048149 C,16,"88,638,451",5.7x10-10,0.49,red vs. not red hair
+rs2078478 C,16,"88,657,637",7.4x10-8,3.31,red vs. not red hair
+rs7196459 G,16,"88,668,978",2.2x10-20,0.31,red vs. not red hair
+,,,7.3x10-15,0.53,freckles present vs. absent
+,,,1.1x10-13,0.54,burns vs. tans
+rs4959270 C,6,"402,748",2.2x10-8,0.73,freckles present vs. absent
+rs1540771 G,6,"411,033",1.9x10-9,0.71,freckles present vs. absent
+Supplementary Table 2. Frequencies in percentages of key SNPs in all phenotypes,,,,,,,,,,,,
+"and all samples. The first line corresponds to the Icelandic Discovery sample, the",,,,,,,,,,,,
+"second line the Icelandic replication sample, and the third the Dutch replication",,,,,,,,,,,,
+sample.,,,,,,,,,,,,
+,,,,,,,,,Skin,,,
+,,Eye color,,,,Hair Color,,,sensitive,,Freckles ,
+Variant,,,,,,,Dark ,,,,,
+Locus,All,Blue Green Brown ,,,Red Blond ,,blond Brown ,,Yes,No ,Yes ,No
+rs12896399 T,54.7,57.7,39.5,54,56.5,67.8,56,44.3,57.5,52.6,54.2 54.9 ,
+SLC24A4,56,58.3,48.5,52,57.2,67.8,55.9,47.5,56.5,55.5,56.4 55.5 ,
+,47.8,50.8,33.2,48.1,44.8,57.9,46.6,42.5,47.7,48,48.4 47.6 ,
+rs12821256 C ,19.6,19.6,20.9,17.8,19.9,27.8,20.2,14.2,20.2,19.2,18.8 20.6 ,
+KITLG,20.9,21.5,20,18.6,19.1,26.7,21.8,16.1,23.2,19.8,20.9 20.8 ,
+,12.2,12.3,10.6,12.7,8.3,15.8,13.4,7.2,11.1,12.9,11.9 12.3 ,
+rs1540771 A,46.8,46.9,47.1,44.2,46.9,42.5,45.2,51.7,50,45.2,50.8 42.4 ,
+6P25.3,44.2,44.9,41.6,40.8,48.1,42.7,43.2,46.6,46.1,43.3,46.7 41.3 ,
+,45.4,45.3,48.4,43.8,46.7,43.4,46.2,45.4,47,44.3,49.1 43.4 ,
+rs1393350 A,29.3,31.1,22.9,27.3,30,32.7,29.2,27.4,32.2,27.4,30.4 27.9 ,
+TYR,30.5,32.3,25,27.3,31.5,34.1,30.9,27.5,36,27.4,31.7 29.0 ,
+,25.8,27.5,21.5,24.3,21.7,28.1,25.9,24.3,27,25,27.1 25.3 ,
+rs1042602 C,70.2,70.5,68.9,70.2,67,67.6,70.7,71.2,69.6,70.4,73.0 67.2 ,
+TYR,72.2,71.9,74.3,72.1,71.9,69.6,72.2,73.8,73,72,75.2 68.6 ,
+,62.4,62.5,59.1,63.4,66.7,63.1,60.8,64.6,60.4,63.8,65.5 60.7 ,
+rs1667394 A,97.6,99,97.5,87.5,98.2,98.8,98.1,95.5,98.1,97.2,97.4 97.6 ,
+OCA2,97.4,99.1,95.7,85.2,97.6,98.8,98.2,94.7,97.6,97.3,97.2 97.6 ,
+,95,99.2,96.5,82.4,96.7,96.9,96,91.4,96.9,93.7,95.8 94.5 ,
+rs7495174 A,94.1,98.6,91.1,67,94,97.8,95.8,88.8,95.1,93.6,94.4 93.8 ,
+OCA2,93.8,98.1,88.6,67,93,97.8,96.1,87.3,94.6,93.5,93.9 93.7 ,
+,88,97.5,85.9,62.7,91.7,94.9,89.8,78.4,90.7,86,90.1 86.7 ,
+rs1805008 T,13.5,13.5,13,12.8,34.3,13.9,12.3,8.7,18.8,10.4,18.4,9.1
+MC1R,12.5,12.1,13.7,11.9,35.4,13.8,11.4,8.3,18,9.9,17.1,7.4
+,8.3,8.6,9.8,6.8,24.1,10.8,7.7,5.9,10.6,6.7,12,6.2
+rs1805007 T,9.6,9.7,10.4,7.8,35.7,11.8,7,6.1,15.1,6.4,15.1,4.5
+MC1R,10.3,9.8,12.8,11.2,36.4,13.1,7.5,6.9,16.8,6.8,14,6
+,6.1,6.1,5.5,6.7,41.7,6.7,5,4.3,8.5,4.4,11.4,3.1
+Supplementary Table 3. Results from tests of positive selection based on population differentiation and extended haplotype homozygosity,,,,,,,,,,,
+,,,,,,,,,a,,
+,,,,Allele frequency,,,,FST (perc. rank),,,irEHH value
+,,,,,,,,,,,a
+,,,,,,,,,,,(perc. rank)
+SNP,Allele,Gene/,Chrom.,CEU,YRI,ASN,CEU-YRI-ASN,CEU-YRI,CEU-ASN,YRI-ASN,CEU
+,,Region,,,,,,,,,
+rs12896399,T,SLC24A4,14,0.6,0.008,0.393,0.405 (9.1),0.827 (2.1),0.086 (45),0.462 (14),1.02 (6.4)
+rs12821256,C,KITLG,12,0.142,0,0,0.149 (40),0.153 (40),0.153 (5.1),0 (N/A),6.96 (1.7)
+rs1540771,T,6p25.3,6,0.575,0.042,0.3,0.334 (14),0.665 (6.3),0.154 (30),0.234 (35),1.29 (4.1)
+rs1042602,A,TYR,11,0.417,0,0,0.484 (0.81),0.526 (1.7),0.526 (0.37),0 (N/A),3.29 (0.55)
+rs1393350,A,TYR,11,0.192,0,0,0.205 (16),0.212 (12),0.212 (3.3),0 (N/A),0.94 (46)
+rs7495174,A,OCA2,15,0.949,0.848,0.292,0.591 (2.7),0.057 (66),0.917 (0.79),0.629 (12),0.5 (1.3)
+rs1667394,T,OCA2,15,0.862,0.052,0.172,0.828 (0.54),1.323 (0.54),0.953 (0.66),0.073 (63),11.23 (0.32)
+rs1805007,T,MC1R,16,0.142,0,0,0.149 (41),0.153 (40),0.153 (5.1),0 (N/A),3.91 (6.6)
+rs1805008,T,MC1R,16,0.108,0,0,0.112 (50),0.115 (31),0.115 (16),0 (N/A),5.37 (6.2)
+a,,,,,,,,,,,
+The percentile rank represents the percent of HapMap alleles of the same frequency in the groups examined that have a value of FST or irEHH that is greater than or equal to,,,,,,,,,,,
+that found for the specified allele.,,,,,,,,,,,
+"Supplementary Table 4. Main association results, stratified by sex, for all samples.",,,,,
+"For each SNP, the first line contains the results for males, and the second for females.",,,,,
+A P value testing for an overall difference of association between the sexes is given.,,,,,
+,,,OR (95% c.i.),,
+Locus,SNP,Iceland Discovery,Iceland replication,Holland,P
+Blue vs. brown eyes ,,,,,
+OCA2,rs1667394 ,"28.51 (16.47,49.34) ","16.48 (9.63,28.18) ","12.60 (7.92,20.03) ",0.12
+,,"30.92 (20.97,45.59) ","21.66 (13.37,35.10) ","24.97 (13.84,45.04) ",
+OCA2 ,rs7495174 ,"4.57 (1.34,15.61) ","3.65 (1.44,9.27) ","6.82 (2.87,16.22) ",0.67
+,,"7.48 (3.86,14.50) ","7.15 (3.21,15.91) ","2.71 (0.81,9.05) ",
+Blue vs green eyes,,,,,
+SLC24A4 ,rs12896399 ,"2.28 (1.55,3.35) ","1.63 (1.21,2.19) ","2.17 (1.35,3.50) ",0.41
+,,"2.07(1.72,2.47) ","1.45 (1.20,1.74) ","2.05 (1.45,2.92) ",
+TYR,rs1393350 ,"2.14 (1.38,3.32) ","1.23 (0.89,1.70) ","1.25 (0.73,2.16) ",0.88
+,,"1.44 (1.19,1.75) ","1.53 (1.24,1.89) ","1.60 (1.08,2.37) ",
+OCA2 ,rs1667394 ,"6.18 (2.71,14.08) ","3.59 (1.80,7.20) ","7.32 (3.28,16.37) ",0.16
+,,"7.24 (4.68,11.20) ","7.64 (4.90,11.93) ","7.75 (3.43,17.51) ",
+Red vs. not red hair,,,,,
+MC1R,rs1805008 ,"8.98 (5.06,15.97) ","4.54 (3.05,6.77) ","2.80 (0.93,8.45) ",0.89
+,,"7.60 (5.54,10.42) ","4.51 (3.32,6.12) ","4.51 (1.83,11.09) ",
+MC1R ,rs1805007 ,"13.82 (7.94,24.04) ","5.32 (3.55,7.97) ","11.61 (4.63,29.06) ",0.56
+,,"12.12 (8.68,16.90) ","6.72 (4.92,9.17) ","15.97 (6.83,37.32) ",
+Blond vs. brown hair,,,,,
+SLC24A4 ,rs12896399 ,"2.48 (1.77,3.47) ","2.02 (1.50,2.74) ","2.11 (1.54,2.87) ",0.78
+,,"2.60 (2.07,3.26) ","2.56 (2.01,3.25) ","1.58 (1.10,2.27) ",
+KITLG ,rs12821256 ,"1.95 (1.30,2.93) ","1.52 (1.06,2.17) ","2.01 (1.25,3.23) ",0.03
+,,"2.49 (1.92,3.24) ","2.20 (1.65,2.94) ","3.26 (1.76,6.05) ",
+OCA2 ,rs1667394 ,"6.02 (2.47,14.64) ","6.29 (2.81,14.09) ","6.20 (3.35,11.45) ",0.51
+,,"4.67 (2.79,7.83) ","6.07 (3.39,10.86) ","4.73 (2.40,9.34) ",
+MC1R ,rs1805008 ,"1.51 (0.84,2.72) ","2.56 (1.67,3.93) ","2.26 (1.22,4.16) ",0.15
+,,"1.91 (1.37,2.66) ","1.36 (0.96,1.93) ","1.71 (0.93,3.14) ",
+MC1R ,rs1805007 ,"2.39 (1.37,4.14) ","2.17 (1.43,3.31) ","2.05 (1.08,3.89) ",0.31
+,,"2.22 (1.49,3.30) ","1.88 (1.30,2.71) ","0.91 (0.37,2.27) ",
+Skin sensitivity to sun,,,,,
+TYR ,rs1393350 ,"1.26 (1.00,1.59) ","1.61 (1.31,1.98) ","1.08 (0.84,1.38) ",0.66
+,,"1.26 (1.08,1.46) ","1.42 (1.19,1.69) ","1.15 (0.87,1.52) ",
+MC1R ,rs1805008 ,"2.05 (1.46,2.86) ","2.42 (1.89,3.09) ","2.03 (1.38,3.01) ",0.18
+,,"2.38 (1.95,2.90) ","1.85 (1.50,2.28) ","1.26 (0.82,1.95) ",
+MC1R ,rs1805007 ,"2.40 (1.69,3.41) ","2.30 (1.77,3.00) ","1.84 (1.20,2.82) ",0.06
+,,"3.33 (2.63,4.23) ","2.70 (2.15,3.40) ","2.56 (1.47,4.46) ",
+Freckles,,,,,
+6P25.3 ,rs1540771 ,"1.45 (1.18,1.79) ","1.18 (0.99,1.41) ","1.22 (0.97,1.54) ",0.53
+,,"1.41 (1.23,1.61) ","1.30 (1.11,1.52) ","1.36 (1.06,1.74) ",
+TYR,rs1042602 ,"1.16 (0.93,1.46) ","1.16 (0.95,1.42) ","1.44 (1.13,1.84) ",0.15
+,,"1.41 (1.22,1.63) ","1.61 (1.35,1.91) ","1.01 (0.78,1.30) ",
+MC1R ,rs1805008 ,"2.81 (2.02,3.92) ","2.66 (2.08,3.40) ","2.04 (1.36,3.04) ",0.5
+,,"2.53 (2.07,3.09) ","2.41 (1.92,3.01) ","2.14 (1.37,3.33) ",
+MC1R ,rs1805007 ,"5.18 (3.63,7.41) ","2.62 (2.02,3.40) ","4.18 (2.71,6.46) ",0.69
+,,"4.26 (3.31,5.49) ","2.64 (2.05,3.40) ","4.64 (2.57,8.37) ",
+Supplementary Table 5. The fraction of the variance of various phenotypes ,,,,,,
+"explained by the previously reported variants, by the new variants (after accounting",,,,,,
+"for the previously reported ones), and by all the variants combined. All traits were",,,,,,
+"treated as two class categorical variables, except hair shade which was treated as a",,,,,,
+"quantitative variable (scoring blond hair as 1, dark blond or light brown hair as 2, and",,,,,,
+brown or black hair as 3).,,,,,,
+,,,"SLC24A4, TYR,",,,
+,MC1R and OCA2,,KITLG and 6p25.3,,All loci,
+Phenotypes ,Iceland ,Holland,Iceland ,Holland,Iceland,Holland
+Blue vs. brown eyes,47.2,47.7,1,0.9,47.7,48.2
+Blue vs. green eyes,7.7,10,4.4,5.9,11.8,15.3
+Brown vs. green eyes,26.7,17.8,0,2.7,26.7,20
+Red hair,29,26,0,0,29,26
+Hair shade (minus red),7.2,7.3,5.9,3.2,12.7,10.2
+Skin sensitivity to sun,7.9,2.6,1.6,0.8,9.4,3.4
+Freckles,9.7,8.9,1.9,1,11.4,9.8
+Supplementary Table 6. Inflation factors on χ2 scale for each genome-wide,,,
+association scan performed. The mean genomic inflation factor was used to correct P ,,,
+values.,,,
+Test,Mean genomic χ2,Median genomic χ2,Genealogy simulated χ2 
+Blue vs. brown eyes,1.15,1.12,1.12
+Blue vs. green eyes,1.11,1.11,1.09
+Red hair,1.14,1.13,1.1
+Blond vs. brown hair,1.18,1.17,1.14
+Skin sensitivity to sun,1.11,1.11,1.08
+Freckles,1.14,1.13,1.11
+"Supplementary table 7. - Primers sequences for SNPs in Tables 2, 3 and 4.",,,,,
+SNP,Forward_primer,Reverse_primer,VIC-Probe,FAM-Probe,Enhancer
+rs12896399,AGCCCTGGGTCTTGATGTTGTA,ATCTGGCGA*TCCA*ATTCTTTGT,GACAAAGAGAAC,GACAAAGAGACC,CAAAATATACTGACCTAAA
+rs12821256,CAGGTGTGAAGTTGTGTGGCAGAA,GTCATAAAGTTCCCTGGAGCCAAG,TTTCCT*T*TAGTG,TTTCCT*TTAGCG,GCCGTAGTAACATG
+rs1540771,ACA*CACGTGA*TAGACTG,ACA*GTA*ACCTGTGGAC,AGCT*CAGCC,AGCT*CA*ACC,ACTCGTGCAGTTC
+rs1393350,GGTGAATGATA*ACA*CGAACAGATT,GA*TGCGTGCATATCCACCAACT,ACACAGATTTCG,CACACAGATTTTG,TGCAGAGAAGG*GA 
+rs1042602,GCATTATTATGTGTCAATGGATGCACTGCT,CGCAACAAGAAGAGTCTATGCCAAG,GG*GGATCTGA,TGG*GG*GATATGA,ATCTGGAGAGACATT
+rs1667394,TCCACCATTAAGACGCAGCAATTCAA,GAGACTTTGAGGTCTCCAAC,GCA*TA*CAC,A*CGTGCATATAC,AAACAAACAAAGAAACAA
+rs7495174,GGCTTAGGAAGCAAGGCAAGTT,TGGGTCGCCTGGCAGAGAG,CCTAAA*GGTCA,CCCTA*AAGGTTA,TGTGCACAGACG
+Supplementary Table 8. Correction factors for on χ2 scale based on the first 10,,,
+principal components calculated using the EIGENSTRAT software package.,,,
+Test,0.05 ≥ P > 10-5,10-5 ≥ P > 10-7,10-7 > P
+Blue vs. brown eyes,1.049,1.044,1.027
+Blue vs. green eyes,1.03,0.972,1.048
+Red hair,1.048,1.063,1.005
+Blond vs. brown hair,1.074,1.059,1.028
+Skin sensitivity to sun,1.027,1.007,1.002
+Freckles,1.053,1,0.999
+,Supplementary Table 9. Allele frequency of variants among different populations.,,,,,,,,
+Locus,SLC24A4 ,KITLG,SEC5L1 ,TYR,,TYR,OCA2,MC1R,MC1R
+SNP,rs12896399 rs12821256 rs1540771 ,,,rs1393350,rs1042602 ,rs1667394 ,rs1805008 ,rs1805007 ,
+Allele,,T,C,A,A,C,A,T,T
+Population,,,,,,,,,
+N,,,,,,,,,
+Iceland,,54,19,46,29,70,94,14,10
+"13,264",,,,,,,,,
+Holland,,48,12,45,25,63,88,8,6
+"1,214",,,,,,,,,
+US,a ,-,10,48,26,64,85,-,-
+"2,276",,,,,,,,,
+CEU,b ,60,14,58,19,58,87,8,14
+60,,,,,,,,,
+CHB,b ,21,0,25,0,100,20,0,0
+45,,,,,,,,,
+JPT b ,,58,0,36,0,100,14,0,0
+45,,,,,,,,,
+YRI,b,1,0,5,0,100,5,0,0
+60,,,,,,,,,
+Pigment,Blond,Blond,Freckle,Blue vs.,Freckle,Blond,Red hair,Red hair,
+effect,Blue vs.,,,green eye,,Blue eye,Fair skin,Fair skin,
+,green eye ,,,,,,Freckles,Freckles,
+,aCancer Genetic Markers of Susceptibility (CGEMS),,,,,,,,
+,bHapmap populations,,,,,,,,
+Supplementary Figure 1-6. Allelic association of Illumina SNP's with main skin and,
+eye pigmentation characteristics. The small horizontal dots show all the genotyped,
+SNP's indicating the coverage of each genomic region.,The large dots correspond to
+the SNP's tested for association. The recombination hot spots are shown by the red,
+"strips. Genes are represented by the blue lines, with the exons as thin vertical bars and",
+with an arrow in the direction of transcription. The graphical description of the genes,
+was simplified in Figure 5.,
+Supplementary Figure 1.
+Supplementary Figure 2.
+Supplementary Figure 3.
+Supplementary Figure 4.
+Supplementary Figure 5.
+Supplementary Figure 6.
